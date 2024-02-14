@@ -1,0 +1,7 @@
+#ignore build artifacts
+build/
+dist/
+
+#ignore sensitive information
+.env
+secret.txt
