@@ -1,0 +1,93 @@
+#Ignore buil artifacts
+build/
+dist/
+
+#ignore editor backup files
+*  UW PICO 5.09                                                                New Buffer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                       [ New file ]
+^G Get Help              ^O WriteOut              ^R Read File             ^Y Prev Pg               ^K Cut Text              ^C Cur Pos
+^X Exit                  ^J Justify               ^W Where is              ^V Next Pg               ^U UnCut Text            ^T To Spell
+  UW PICO 5.09                                                         File: .gitignore                                                         Modified
+
+#Ignore buil artifacts
+build/
+dist/
+
+#ignore editor backup files
+*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help              ^O WriteOut              ^R Read File             ^Y Prev Pg               ^K Cut Text              ^C Cur Pos
+^X Exit                  ^J Justify               ^W Where is              ^V Next Pg               ^
